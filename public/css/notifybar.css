@@ -1,0 +1,36 @@
+.notify_bar{
+    text-align: center;
+    background: #e8e9e8;
+    color: #fff;
+}
+
+.notify_bar a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.alert_bar{
+    display:inline-block;
+    align-items: center;
+    padding: 0 10px;
+    background-color: #056839;
+}
+.notify_bar_messages{
+    clear: both;
+    
+}
+
+.notify_bar_messages p{
+    display:flex;
+    padding: 5px;
+    border-bottom: 1px dotted;
+    margin-bottom: -1px;
+}
+
+.alert_bar_left{
+    float: left;
+}
+
+.alert_bar_right{
+    float: right;
+}
